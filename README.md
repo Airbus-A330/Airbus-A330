@@ -6,7 +6,7 @@ I'm **Airbus-A330**, but most of you know me as **Airbus**.  I am a backend deve
 ## Projects:
 Here are a few main projects I have programmed and contributed to:
 - <img src="https://images-ext-1.discordapp.net/external/FQwnwKdaj7e_vpZ8MNC3MP1oFiaWtKrNDssY16OTw5g/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/563186108712878090/af8ff94d6cba3e4c28e10f2fcba8160b.png?width=988&height=988" width="25"/>  **[Aerex](https://discord.com/oauth2/authorize?client_id=563186108712878090&permissions=805694591&scope=bot%20applications.commands)** - A fun multipurpose and utility bot 
-- <img src="https://images-ext-2.discordapp.net/external/HvjHxCi38mNifUZdELmcFjoeLeECITzrz1S1HiSUwfA/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/714232404029603950/a71447c47e7d64ca942da4c0b44ce89a.png?width=988&height=988" width="25"/> **[Bot Bumper](https://github.com/Flightex/Bot-Bumper)** - A bot dedicated to helping your bot get famous
+- <img src="https://cdn.discordapp.com/attachments/701572474843693157/851819150154530887/blue_bot_bumper.png?width=988&height=988" width="25"/> **[Bot Bumper](https://github.com/Flightex/Bot-Bumper)** - A bot dedicated to helping your bot get famous
 - <img src="https://images-ext-1.discordapp.net/external/qSJ9Jd7YiPZOUXoq7PjfNKCGKVi-r5GKOYrDKkcygbo/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/712710959898034288/2cd7d03267ac7e8a795dc6e4a1a7f653.png?width=988&height=988" width="25"/> **[Javascript Manager Bot](https://github.com/JavaScript-Universe/JavaScript-Manager-Luke)** - Javascript Universe server bot
 - <img src="https://cdn.discordapp.com/emojis/658538493521166336.png?v=1" width="25"/> **[Rich Presence](https://github.com/JavaScript-Universe/Server-Rich_Presence)** - Rich Presence template for JSU
 
