@@ -13,6 +13,3 @@ Here are a few main projects I have programmed and contributed to:
 ## Connections:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=united.vietnam.airlines&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=united.vietnam.airlines&redirect=true)
 [![Airbus's Github stats](https://github-readme-stats.vercel.app/api?username=Airbus-A330&show_icons=true&theme=midnight-purple&count_private=true)](https://github.com/Airbus-A330/Airbus-A330)
-
-## CDN Test:
-![](https://cdn.airbus-a330.tk/images/admin/airbus.png)
