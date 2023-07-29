@@ -8,9 +8,6 @@ I am **Airbus-A330** and I love making things. Check out some of my projects and
 | Taylor Series Approximation for Pi | Lightweight Pi approximation using [arctan Taylor Series](https://www.wolframalpha.com/input?i=taylor+expansion+of+arctan%28x%29) | <kbd>[Gist](https://gist.github.com/Airbus-A330/a2570af85659001ae605502cd9ee0e1b)</kbd>                                                         |
 | YouTube Shorts to Video UserScript | Automatically convert YouTube Shorts to normal video format on the platform                                                       | <kbd>[Gist](https://gist.github.com/Airbus-A330/b6849fd9fe842d008bd9bc32b3f4a63d)</kbd>                                                         |
 
-I also work on:
-* Discord API / Bots
-* Web Development
-* Data Structure / Database
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Airbus-A330&theme=transparent)
 
 *Hope to see you around!*
